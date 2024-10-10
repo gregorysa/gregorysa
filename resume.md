@@ -1,10 +1,11 @@
 Sarah Jane Gregory
 
-Contact Info:
+Contact Info
 ...
 
-Education:
-...
+Education
+Major: Computer Science
+Expected Graduation Date: 2028
 
-Work Experience:
+Work Experience
 ...
