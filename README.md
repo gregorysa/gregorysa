@@ -1,4 +1,5 @@
 ## Hi! 
+Please send me an email if you would like to see my projects!
 
 <!--
 **gregorysa/gregorysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
